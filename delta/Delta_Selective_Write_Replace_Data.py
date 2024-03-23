@@ -33,7 +33,7 @@ dbutils.fs.ls(target)
 # COMMAND ----------
 
 # MAGIC  %md
-# MAGIC ### Using replace where .Dataframe which is being used to write should have rows satisfying condition defined in replacewhere clause
+# MAGIC ### Using replace where .Dataframe which is being used to write ,should have rows satisfying condition defined in replacewhere clause
 
 # COMMAND ----------
 
